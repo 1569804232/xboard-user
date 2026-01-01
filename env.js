@@ -1,5 +1,5 @@
 // API地址
-window.routerBase = 'https://ai.787802.xyz'
+window.routerBase = 'https://ai.787802.xyz/'
 window.settings = {
   // 站点名称
   title: 'AI坤场',
